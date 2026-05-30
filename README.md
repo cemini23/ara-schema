@@ -28,6 +28,7 @@ LLM-curated wikis rot fast — orphan pages, one-way `related:` links, `@mention
 ## Related
 
 - Methodology newsletter: [Outlier Weekly](https://outlierweekly.substack.com)
+- YouTube: [@Cemini23](https://www.youtube.com/@Cemini23)
 - Agent meta-wiki: [cemini-claude-code-CCC](https://github.com/cemini23/cemini-claude-code-CCC)
 - Toolkit: [vet](https://github.com/cemini23/vet) · [wikilint](https://github.com/cemini23/wikilint) · [phase0](https://github.com/cemini23/phase0) · [agent-toolkit-demo](https://github.com/cemini23/agent-toolkit-demo)
 
