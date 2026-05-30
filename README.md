@@ -25,6 +25,12 @@ Full spec: [SCHEMA.md](./SCHEMA.md)
 
 LLM-curated wikis rot fast — orphan pages, one-way `related:` links, `@mentions` without files. ARA gives agents a **stable contract**; wikilint enforces it in CI.
 
+## Related
+
+- Methodology newsletter: [Outlier Weekly](https://outlierweekly.substack.com)
+- Agent meta-wiki: [cemini-claude-code-CCC](https://github.com/cemini23/cemini-claude-code-CCC)
+- Toolkit: [vet](https://github.com/cemini23/vet) · [wikilint](https://github.com/cemini23/wikilint) · [phase0](https://github.com/cemini23/phase0) · [agent-toolkit-demo](https://github.com/cemini23/agent-toolkit-demo)
+
 ## License
 
 MIT — use the schema in any project; keep your wiki content private.
